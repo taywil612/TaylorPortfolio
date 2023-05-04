@@ -1,4 +1,6 @@
-This project is made to be a reflection of a traffic control system. The goal of this project is to implement this system with pthread lock(s) and semaphores. 
+This project is made to be a reflection of a traffic control system. 
+
+The goal of this project is to implement this system with pthread lock(s) and semaphores. 
 What was known about this traffic control system is that it controls traffic at an intersection where cars can come from the North, South, East, or West. 
 This was implemented in the project through semaphores and pthreads where each car, which can come from any direction, has its own thread (screenshot #1).
 
