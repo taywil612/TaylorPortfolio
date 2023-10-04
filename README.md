@@ -47,12 +47,14 @@ Hi, my name is Taylor Williams and I am a current student at the University of M
       - Projects under SoftwareDesign, all of which utiltize different softfware design patterns
 
 
-**Other Courses I have taken**
+**Other Courses I have taken/Currently taking**
+- Practical Security (will receive a Practical Aspects of Computing Security (PACS) certificate)
+- Web Technology
 - Computer Organization and Assembly Language
-- Tech Writing for Engineers
 - Data Structures and Algorithm Analysis
 - Intro to Python
 - Software Engineering Tools
+- Tech Writing for Engineers
 
 
 
