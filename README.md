@@ -49,6 +49,7 @@ Hi, my name is Taylor Williams and I am a current student at the University of M
 
 **Other Courses I have taken/Currently taking**
 - Practical Security (will receive a Practical Aspects of Computing Security (PACS) certificate)
+- Senior Design
 - Web Technology
 - Computer Organization and Assembly Language
 - Data Structures and Algorithm Analysis
