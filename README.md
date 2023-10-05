@@ -7,7 +7,7 @@ Hi, my name is Taylor Williams and I am a current student at the University of M
 - I've always had a interest in computers, gaming, writing and reading. I would say I'm always up for learning new skills and growing myself as a person. I am creative but also practical, I was in theatre and marching band in highschool.
 - I would also definitely consider myself a fast learner!
 - Computer Science background, most proficient in programming languages: C++ and Python 
-- I also have experience in other languages such as SQL/SQLite and Java
+- I also have experience in other languages such as SQL/SQLite, Java/Javascript, and HTML/CSS
 - I have worked with Linux, Docker Desktop and Ubuntu 
 
 
