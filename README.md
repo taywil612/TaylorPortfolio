@@ -14,7 +14,7 @@ Hi, my name is Taylor Williams and I am a current student at the University of M
 **So far I have worked with many software/coding applications such as...**
 - Microsoft Visual Studio + Microsoft Visual Studio Code
 - Microsoft Office + Excel + Powerpoint + Word
-- Oracle + MySqlDeveloper, for creating a database system
+- Oracle + SqlDeveloper, for creating a database system
 - Git/Github, for group collaborations
 
 - Enterprise Architecture, for creating different types of software models and diagrams
