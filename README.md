@@ -8,7 +8,7 @@ Hi, my name is Taylor Williams and I am a current student at the University of M
 - I would also definitely consider myself a fast learner!
 - Computer Science background, most proficient in programming languages: C++ and Python 
 - I also have experience in other languages such as SQL/SQLite, Java/Javascript, and HTML/CSS
-- I have worked with Linux, Docker Desktop and Ubuntu 
+- I have worked with Linux, and Ubuntu
 
 
 **So far I have worked with many software/coding applications such as...**
@@ -19,8 +19,11 @@ Hi, my name is Taylor Williams and I am a current student at the University of M
 
 - Enterprise Architecture, for creating different types of software models and diagrams
 - Jenkins, a continuous software integration tool
-- Bitvise SSH client and WinSCP
+- Bitvise SSH client and WinSCP, for working with different servers
 - Eclispe IDE, for java implementation
+- Docker, for working with different operating systems
+- Oracle VM Virtualbox, for creating and implementing proxy servers to test security measures of different mobile applications
+- 
 
 
 **Here are some classes where the projects found in this repository are from....**
