@@ -1,0 +1,1 @@
+The objective of this project was clear: conduct experiments to unearth flawed apps set up proxies to monitor HTTPS packages, identify sensitive information within data packages, and ultimately distinguish flawed or malicious applications.
