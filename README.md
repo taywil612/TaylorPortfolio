@@ -55,19 +55,19 @@ Hi, my name is Taylor Williams and I am a current student at the University of M
       - Projects under SoftwareDesign, all of which utilize different software design patterns
         
 - Web Technology
-   -**Project Associated**
+   - **Project Associated**
      - Wolverine Work: This website application revolves around the idea of students within the University of Michigan, being able to share their creative endeavors,
        hence our project’s title, “Wolverine Work”. Our team wants to create a “central hub” for students to be able to showcase creative and academic work,
      - http://wolverine-work.f23.435.rocks/
      - https://github.com/taywil612/WolverineWork
        
 - Senior Design
-  -**Project Associated**
+  - **Project Associated**
      - Llama Lingo:
      - https://github.com/taywil612/LlamaLingo
        
 - Practical Computer Security
-  -**Project Associated**
+  - **Project Associated**
      - SSL Vulnerabilities Lab: conduct experiments to unearth flawed apps set up proxies to monitor HTTPS packages, identify sensitive information within data packages,
        and ultimately distinguish flawed or malicious applications.
 
