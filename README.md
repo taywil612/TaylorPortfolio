@@ -23,7 +23,6 @@ Hi, my name is Taylor Williams and I am a current student at the University of M
 - Eclispe IDE, for java implementation
 - Docker, for working with different operating systems
 - Oracle VM Virtualbox, for creating and implementing proxy servers to test security measures of different mobile applications
-- 
 
 
 **Here are some classes where the projects found in this repository are from....**
