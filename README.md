@@ -3,8 +3,8 @@ Hi, my name is Taylor Williams and I am a current student at the University of M
 
 
 **About Me!**
-- Currently I am a senior and expect to graduate in the spring of 2024 
-- I've always had a interest in computers, gaming, writing and reading. I would say I'm always up for learning new skills and growing myself as a person. I am creative but also practical, I was in theatre and marching band in highschool.
+- Currently, I am a senior and expect to graduate in the spring of 2024 
+- I've always been interested in computers, gaming, writing, and reading. I'm always up for learning new skills and growing myself as a person. I am creative but also practical, I was in theatre and marching band in high school.
 - I would also definitely consider myself a fast learner!
 - Computer Science background, most proficient in programming languages: C++ and Python 
 - I also have experience in other languages such as SQL/SQLite, Java/Javascript, and HTML/CSS
@@ -31,38 +31,59 @@ Hi, my name is Taylor Williams and I am a current student at the University of M
 - Operating Systems 
    - **Project Associated**
        - OperatingSystems: simulates a traffic control system using C (pthread lock(s) and semaphores)
+         
 - Intro to Artificial Intelligence
    - **Project Associated**
-       - AI_Robot_Localization: Use of Python to implement robot localization with the HMM algorithm.
+       - AI_Robot_Localization: Use Python to implement robot localization with the HMM algorithm.
+         
 - Software Engineering
    - **Project Associated**
-       - UIGroupProject: Group collaboration project that created a user interface for an accessibility checklist questionarie, use of making a website to host UI
+       - UIGroupProject: Group collaboration project that created a user interface for an accessibility checklist questionnaire, use of making a website to host UI
+         
 - Database Management 
    - **Project Associated**
        - RestaurantDatabase: Group collaboration project to create a database for a restaurant chain
+         
 - Computer Networks and Distributed Processing
    - **Projects Associated**
-      - NetworkMeasurementProject: assess link latency for a five-day period (identifiy network delays/issues)
-      - OnlineStockTradingSystem: create an online stock trading application that allows for multiple clients to connect to the server simultaneously, using Python 
+      - NetworkMeasurementProject: assess link latency for a five-day period (identify network delays/issues)
+      - OnlineStockTradingSystem: create an online stock trading application that allows multiple clients to connect to the server simultaneously, using Python 
       and SQL
+
 - Software Architecture and Design Patterns
    - **Project Associated**
-      - Projects under SoftwareDesign, all of which utiltize different softfware design patterns
+      - Projects under SoftwareDesign, all of which utilize different software design patterns
+        
+- Web Technology
+   -**Project Associated**
+     - Wolverine Work: This website application revolves around the idea of students within the University of Michigan, being able to share their creative endeavors,
+       hence our project’s title, “Wolverine Work”. Our team wants to create a “central hub” for students to be able to showcase creative and academic work,
+     - http://wolverine-work.f23.435.rocks/
+     - https://github.com/taywil612/WolverineWork
+       
+- Senior Design
+  -**Project Associated**
+     - Llama Lingo:
+     - https://github.com/taywil612/LlamaLingo
+       
+- Practical Computer Security
+  -**Project Associated**
+     - SSL Vulnerabilities Lab: conduct experiments to unearth flawed apps set up proxies to monitor HTTPS packages, identify sensitive information within data packages,
+       and ultimately distinguish flawed or malicious applications.
 
 
 **Other Courses I have taken/Currently taking**
-- Practical Security (will receive a Practical Aspects of Computing Security (PACS) certificate)
-- Senior Design
-- Web Technology
 - Computer Organization and Assembly Language
 - Data Structures and Algorithm Analysis
 - Intro to Python
 - Software Engineering Tools
 - Tech Writing for Engineers
+- Intro to Software Security
+- Mobile App Design
 
 
 
-I am currently working on some personal projects, one of which is creating a website that will act as my personal portfolio and would be a new home for all of these projects and future ones to showcase. 
+I am currently working on some personal projects, one of which is creating a website that will act as my portfolio and would be a new home for all of these projects and future ones to showcase. 
 
 I look forward to furthering my skills and learning some new ones in a professional setting :)
 
