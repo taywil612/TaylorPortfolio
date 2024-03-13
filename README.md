@@ -67,8 +67,12 @@ Hi, my name is Taylor Williams and I am a current student at the University of M
        
 - Practical Computer Security
   - **Project Associated**
-     - SSL Vulnerabilities Lab: conduct experiments to unearth flawed apps set up proxies to monitor HTTPS packages, identify sensitive information within data packages,
+     - SSL Vulnerabilities Lab: Conduct experiments to unearth flawed apps set up proxies to monitor HTTPS packages, identify sensitive information within data packages,
        and ultimately distinguish flawed or malicious applications.
+
+- Mobile App Design 
+  - **Project Associated**
+     - DiceGame: A simple two player game to help children practice arithmetic.There will also be a die (singular of dice) image that will determine what type of problem the players have to solve. 
 
 
 **Other Courses I have taken/Currently taking**
@@ -78,11 +82,7 @@ Hi, my name is Taylor Williams and I am a current student at the University of M
 - Software Engineering Tools
 - Tech Writing for Engineers
 - Intro to Software Security
-- Mobile App Design
 
-
-
-I am currently working on some personal projects, one of which is creating a website that will act as my portfolio and would be a new home for all of these projects and future ones to showcase. 
 
 I look forward to furthering my skills and learning some new ones in a professional setting :)
 
