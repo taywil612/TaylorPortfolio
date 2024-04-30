@@ -75,7 +75,7 @@ Hi, my name is Taylor Williams and I am a current student at the University of M
      - DiceGame: A simple two player game to help children practice arithmetic.There will also be a die (singular of dice) image that will determine what type of problem the players have to solve. 
 
 
-**Other Courses I have taken/Currently taking**
+**Other Courses I have taken**
 - Computer Organization and Assembly Language
 - Data Structures and Algorithm Analysis
 - Intro to Python
