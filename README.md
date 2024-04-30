@@ -7,7 +7,7 @@ Hi, my name is Taylor Williams and I am a current student at the University of M
 - I've always been interested in computers, gaming, writing, and reading. I'm always up for learning new skills and growing myself as a person. I am creative but also practical, I was in theatre and marching band in high school.
 - I would also definitely consider myself a fast learner!
 - Computer Science background, most proficient in programming languages: C++ and Python 
-- I also have experience in other languages such as SQL/SQLite, Java/Javascript, and HTML/CSS
+- I also have experience in other languages such as SQL/SQLite, Java/Javascript, Kotlin and HTML/CSS
 - I have worked with Linux, and Ubuntu
 
 
@@ -16,6 +16,7 @@ Hi, my name is Taylor Williams and I am a current student at the University of M
 - Microsoft Office + Excel + Powerpoint + Word
 - Oracle + SqlDeveloper, for creating a database system
 - Git/Github, for group collaborations
+- Android Studio, building Android applications
 
 - Enterprise Architecture, for creating different types of software models and diagrams
 - Jenkins, a continuous software integration tool
@@ -23,6 +24,7 @@ Hi, my name is Taylor Williams and I am a current student at the University of M
 - Eclispe IDE, for java implementation
 - Docker, for working with different operating systems
 - Oracle VM Virtualbox, for creating and implementing proxy servers to test security measures of different mobile applications
+
 
 
 **Here are some classes where the projects found in this repository are from....**
