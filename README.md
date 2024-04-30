@@ -72,7 +72,8 @@ Hi, my name is Taylor Williams and I am a current student at the University of M
 
 - Mobile App Design 
   - **Project Associated**
-     - DiceGame: A simple two player game to help children practice arithmetic.There will also be a die (singular of dice) image that will determine what type of problem the players have to solve. 
+     - DiceGame: A simple two-player game to help children practice arithmetic. There will also be a die (singular of dice) image that will determine what type of problem the players have to solve.
+     - Newsapp: A simple app I created that generates random news for its users. Users can view a random news article's description, title, and author via a news API (NewsData.IO).
 
 
 **Other Courses I have taken**
