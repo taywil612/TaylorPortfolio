@@ -1,9 +1,9 @@
 # My Portfolio
-Hi, my name is Taylor Williams and I am a current student at the University of Michigan-Dearborn, majoring in computer and information science.
+Hi, my name is Taylor Williams and I am a recent graduate of the University of Michigan-Dearborn, where I majored in computer and information science.
 
 
 **About Me!**
-- Currently, I am a senior and expect to graduate in the spring of 2024 
+- I graduated in April of 2024 
 - I've always been interested in computers, gaming, writing, and reading. I'm always up for learning new skills and growing myself as a person. I am creative but also practical, I was in theatre and marching band in high school.
 - I would also definitely consider myself a fast learner!
 - Computer Science background, most proficient in programming languages: C++ and Python 
